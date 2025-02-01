@@ -1,0 +1,8 @@
+flask
+flask-session
+requests
+msal
+openai
+PyPDF2
+python-docx
+scikit-learn
