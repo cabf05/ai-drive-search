@@ -10,7 +10,7 @@ from io import BytesIO
 from PyPDF2 import PdfReader
 from docx import Document
 
-app = Flask(__name__name__)
+app = Flask(__name__)
 app.secret_key = os.urandom(24)
 app.config["SESSION_TYPE"] = "filesystem"
 Session(app)
