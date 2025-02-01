@@ -6,3 +6,4 @@ openai
 PyPDF2
 python-docx
 scikit-learn
+uvicorn
